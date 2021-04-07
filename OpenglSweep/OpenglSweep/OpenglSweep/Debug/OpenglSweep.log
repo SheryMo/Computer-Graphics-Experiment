@@ -1,0 +1,33 @@
+﻿  OpenglSweep.cpp
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(155,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(166,14): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(199,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(207,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(257,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(262,9): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(268,9): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(275,9): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(302,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(315,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(317,61): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(317,44): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(317,27): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(318,67): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(318,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(318,29): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(327,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(328,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(337,37): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(337,28): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(337,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(339,37): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(339,28): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(339,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(341,37): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(341,28): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(341,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(378,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(379,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(387,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DZZ\source\repos\OpenglSweep\OpenglSweep\OpenglSweep.cpp(388,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  OpenglSweep.vcxproj -> C:\Users\DZZ\source\repos\OpenglSweep\Debug\OpenglSweep.exe

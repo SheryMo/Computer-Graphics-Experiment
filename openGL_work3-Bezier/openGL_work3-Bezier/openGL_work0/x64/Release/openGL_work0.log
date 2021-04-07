@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\WORKSTATION\Desktop\计算机图形学\class3\openGL_work0\openGL_work0\main.cpp(31,28): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\WORKSTATION\Desktop\计算机图形学\class3\openGL_work0\openGL_work0\main.cpp(42,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\WORKSTATION\Desktop\计算机图形学\class3\openGL_work0\openGL_work0\main.cpp(127,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 152 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  openGL_work0.vcxproj -> C:\Users\WORKSTATION\Desktop\计算机图形学\class3\openGL_work0\x64\Release\openGL_work0.exe
